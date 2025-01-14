@@ -32,7 +32,11 @@ import java.util.List;
 public abstract class robotBase extends OpMode {
     protected SampleMecanumDrive drive;
 
+<<<<<<< HEAD
     protected DcMotorEx slideL;
+=======git add .
+    protected DcMotorEx  slideL;
+>>>>>>> master
     protected DcMotorEx slideR;
 
 
