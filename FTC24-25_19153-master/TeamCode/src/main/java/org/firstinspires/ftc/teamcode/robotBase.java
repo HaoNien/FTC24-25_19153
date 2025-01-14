@@ -35,7 +35,6 @@ public abstract class robotBase extends OpMode {
 
     protected DcMotorEx slideL;
 
-    protected DcMotorEx  slideL;
 
     protected DcMotorEx slideR;
 
